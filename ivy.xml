@@ -1,0 +1,6 @@
+<ivy-module version="2.0">
+    <info organisation="org.apache" module="junit"/>
+    <dependencies>
+        <dependency org="junit" name="junit-dep" rev="4.8.2"/>
+    </dependencies>
+</ivy-module>
